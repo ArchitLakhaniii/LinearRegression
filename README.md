@@ -4,7 +4,7 @@ This Python script performs linear regression on a given dataset and plots the r
 
 ## Files
 
-- `linear_regression.py`: The main Python script containing functions for estimating coefficients, plotting the regression line, and executing the main logic.
+- `regression.py`: The main Python script containing functions for estimating coefficients, plotting the regression line, and executing the main logic.
 
 ## Prerequisites
 
